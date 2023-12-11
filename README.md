@@ -7,9 +7,8 @@ Check out our 22-page paper for more information.
 
 ## Requirements
 
-Python==3.9.12
-
 ```python
+Python==3.9.12
 pip install -r requirements.txt
 ```
 
