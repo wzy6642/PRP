@@ -3,4 +3,4 @@ PRP iterates a verify-then-rectify process to progressively identify incorrect a
 
 Check out our 22-page paper for more information.
 
-![image](https://github.com/MaiEmily/map/blob/master/public/image/20190528145810708.png)
+![image](https://github.com/wzy6642/PRP/blob/main/img/framework.PNG)
