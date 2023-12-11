@@ -1,2 +1,1 @@
-# PRP
-AAAI'24: Get an A in Math: Progressive Rectification Prompting
+# Get an A in Math: Progressive Rectification Prompting (AAAI 2024)
