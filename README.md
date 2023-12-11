@@ -23,7 +23,7 @@ python run.py --data_index 0
 ```markdown
 @inproceedings{wu2024prp,
   title={Get an A in Math: Progressive Rectification Prompting},
-  author={Wu, Zhenyu and Jiang, Mengn and Shen, Chao},
+  author={Wu, Zhenyu and Jiang, Meng and Shen, Chao},
   booktitle={The Thirty-Seventh AAAI Conference on Artificial Intelligence (AAAI 2024)},
   year={2024}
 }
